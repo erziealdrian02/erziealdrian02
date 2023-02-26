@@ -15,5 +15,4 @@ Saya seorang **Junior Developer** yang sedang melakukan tahapan belajar.
 - <a href="https://www.linkedin.com/in/muhamad-erzie-aldrian-nugraha-142239213/">LinkedIn</a>
 - <a href="https://steamcommunity.com/id/N3nPl4yZz/">Steam</a>
 - erzie.aldrian02@gmail.com
-- dimas@dicoding.com
 - Nekoplay猫#5399
