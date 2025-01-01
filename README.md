@@ -16,12 +16,12 @@
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://discord.com/users/521972197825445888">[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)</a> &nbsp;
-<a href="https://www.instagram.com/ez_ian02/">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)</a> &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&link=https://web.facebook.com/erzie.aldrian/)]
-<a href="https://www.linkedin.com/in/muhamad-erzie-aldrian-nugraha/">[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)</a> &nbsp;
-<a href="mailto:erzie.aldrian02@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)</a> &nbsp;
-<a href="https://steamcommunity.com/id/N3nPl4yZz/"> [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#) </a> &nbsp;
+<a href="https://discord.com/users/521972197825445888">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)</a> &nbsp;
+<a href="https://www.instagram.com/ez_ian02/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a> &nbsp;
+<a href="https://web.facebook.com/erzie.aldrian/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</a> &nbsp;
+<a href="https://www.linkedin.com/in/muhamad-erzie-aldrian-nugraha/">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)</a> &nbsp;
+<a href="mailto:erzie.aldrian02@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a> &nbsp;
+<a href="https://steamcommunity.com/id/N3nPl4yZz/">![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)</a> &nbsp;
 
 ## ⚡ Technologies
 
