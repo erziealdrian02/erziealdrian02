@@ -8,29 +8,30 @@
 </p>
 <br />
 
-- 💻 Currently I'm working as a Python Developer
+- 💻 Currently I'm working as a Web Developer
 - 🌱 I'm learning Full Stack Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://discord.com/users/521972197825445888">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)</a> &nbsp;
-<a href="https://www.instagram.com/ez_ian02/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a> &nbsp;
-<a href="https://web.facebook.com/erzie.aldrian/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</a> &nbsp;
-<a href="https://www.linkedin.com/in/muhamad-erzie-aldrian-nugraha/">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)</a> &nbsp;
-<a href="mailto:erzie.aldrian02@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a> &nbsp;
-<a href="https://steamcommunity.com/id/N3nPl4yZz/">![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)</a> &nbsp;
+<a target="_blank" href="https://discord.com/users/521972197825445888">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)</a> &nbsp;
+<a target="_blank" href="https://www.instagram.com/ez_ian02/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a> &nbsp;
+<a target="_blank" href="https://web.facebook.com/erzie.aldrian/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</a> &nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/muhamad-erzie-aldrian-nugraha/">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)</a> &nbsp;
+<a target="_blank" href="mailto:erzie.aldrian02@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a> &nbsp;
+<a target="_blank" href="https://steamcommunity.com/id/N3nPl4yZz/">![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)</a> &nbsp;
 
 ## ⚡ Technologies
 
 ### Language :
-html
-css
-php
-pyton
-javascript
+<p align="left">
+ <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/html-5.png" alt="html-5" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/css-3.png" alt="CSS" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/php.png" alt="PHP" width="40" height="40"/> </a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/python.png" alt="Python" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/js.png" alt="JavaScript" width="40" height="40"/> </a>
+</p>
 
 ### Libraries & Tools :
 
@@ -40,19 +41,19 @@ javascript
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></a>
   <a href="https://github.com" target="_blank" rel="noreferrer"><img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></a>
   <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img height="40" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab" /></a>
+ <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img height="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/office.png" alt="Office" title="Office" /></a>
+ <a href="https://colab.google/" target="_blank" rel="noreferrer"><img height="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/googlecollab.png" alt="Google Collab" title="Google Collab" /></a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img height="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/vscode.png" alt="Visual Studi Code" title="Visual Studi Code" /></a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/figma.png" alt="Figma" title="Figma" /></a>
 </p>
-Microsoft Office
-Google Collab
-Visual Studio Code
   
 ### Framework:
 
 <p align="left">
-  laravel
-  Codeigniter
-  NextJS
-  NodeJS
-  Flask
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/laravel.png" alt="Laravel" title="Laravel" /></a>
+  <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/ci.png" alt="Codeigniter" title="Codeigniter" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/next.png" alt="NextJS" title="NextJS" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img height="50" width="50" src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/nodejs.png" alt="NodeJS" title="NodeJS"/></a>
 </p>
 
 ## Github Stats
@@ -67,5 +68,5 @@ Visual Studio Code
 </p>
 
 ### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erziealdrian02&theme=github)](https://github.com/erziealdrian02)
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erziealdrian02&theme=tokyonight)](https://github.com/erziealdrian02)
 
