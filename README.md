@@ -70,3 +70,20 @@
 ### 📈 GitHub Activity Graph:
  [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erziealdrian02&theme=tokyonight)](https://github.com/erziealdrian02)
 
+<hr/>
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/erziealdrian02/count.svg" />  
+</p>
+
+<br/>
+
+<div align="center">
+<p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
+ <a href="https://github.com/erziealdrian02/erziealdrian02/issues/3#issuecomment-new"><img src="https://github.com/erziealdrian02/erziealdrian02/blob/main/iconImage/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+</div>
