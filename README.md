@@ -68,7 +68,7 @@
 </p>
 
 ### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erziealdrian02&theme=tokyonight)](https://github.com/erziealdrian02)
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erziealdrian02&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/erziealdrian02)
 
 <hr/>
 
